@@ -1,0 +1,10 @@
+C:\Users\samet\Desktop\IsmekApp\KitaplıkProjesi\KitaplıkProjesi\bin\Debug\KitaplıkProjesi.exe.config
+C:\Users\samet\Desktop\IsmekApp\KitaplıkProjesi\KitaplıkProjesi\bin\Debug\KitaplıkProjesi.exe
+C:\Users\samet\Desktop\IsmekApp\KitaplıkProjesi\KitaplıkProjesi\bin\Debug\KitaplıkProjesi.pdb
+C:\Users\samet\Desktop\IsmekApp\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\KitaplıkProjesi.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\IsmekApp\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\KitaplıkProjesi.Form1.resources
+C:\Users\samet\Desktop\IsmekApp\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\KitaplıkProjesi.Properties.Resources.resources
+C:\Users\samet\Desktop\IsmekApp\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\KitaplıkProjesi.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\IsmekApp\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\KitaplıkProjesi.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\IsmekApp\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\KitaplıkProjesi.exe
+C:\Users\samet\Desktop\IsmekApp\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\KitaplıkProjesi.pdb
