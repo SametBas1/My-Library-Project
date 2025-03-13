@@ -17,7 +17,7 @@ Bu proje, bir kitaplık yönetim sistemidir. Kullanıcılar kitap ekleyebilir, s
 ## Kurulum
 1. **Projeyi Klonla:**
    ```sh
-   git clone https://github.com/kullaniciadi/kitaplik-projesi.git
+   https://github.com/SametBas1/My-Library-Project.git
    ```
 2. **MSSQL Veritabanını Ayarla:**
    - `kitaplik.sql` dosyasını çalıştırarak gerekli tabloları oluştur.
